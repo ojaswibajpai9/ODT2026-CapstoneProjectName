@@ -4,5 +4,5 @@
 3. Fabrication & Integration Process Document
 
 ⚠️ Guidelines
-Show evolution of design (not just final result)
-Explain why materials were chosen
+1. Show evolution of design (not just final result)
+2. Explain why materials were chosen
