@@ -1,10 +1,8 @@
-**Project Title**
-
-[Enter your project name here]
+INFERNOTRON
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
+•	Infernotron is a Bluetooth-controlled robotic car powered by an ESP32 microcontroller that can be operated through a mobile app. It can move in different directions, detect objects using an IR sensor, and activate laser targeting when an object is detected. The system also simulates a shooting effect using LEDs and a buzzer, creating an interactive robotics and security-prototype experience.
 
 
 **📂 Repository Structure**
@@ -28,4 +26,5 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-[Name]
+Ojaswi Bajpai
+Aradhya Mohan
